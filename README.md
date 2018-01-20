@@ -1,2 +1,2 @@
 # tasks-api
-Personal Project using Twillo API and Express/MongoDB
+Personal Project API using Twillo API and Express/MongoDB
