@@ -15,6 +15,11 @@ Your need a twillo account and MongoDB installed.
 $ npm install -g
 ```
 
+### Running
+```
+$ npm start
+```
+
 ## Built With
 
 * [Express](https://expressjs.com/) - The Node.JS web framework used.
