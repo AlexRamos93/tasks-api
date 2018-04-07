@@ -25,6 +25,6 @@ $ npm install -g
 
 ## Authors
 
-* **Alexandre Ramos** - [PurpleBooth](https://github.com/AlexRamos93)
+* **Alexandre Ramos** - [Git Repository](https://github.com/AlexRamos93)
 
 
