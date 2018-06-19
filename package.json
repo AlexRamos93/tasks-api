@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node index.js"
+    "start": "babel-node index.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "Alex Ramos",
   "license": "ISC",
@@ -24,6 +26,8 @@
     "node-schedule": "^1.2.5",
     "passport": "^0.4.0",
     "passport-jwt": "^3.0.0",
-    "twilio": "^3.8.0"
-  }
+    "twilio": "^3.8.0",
+    "snyk": "^1.83.0"
+  },
+  "snyk": true
 }
